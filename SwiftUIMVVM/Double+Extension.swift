@@ -1,6 +1,6 @@
 //
 //  Double+Extension.swift
-//  ProductAPISwiftUI
+//  SwiftUIMVVM
 //
 //  Created by Ravikanth on 21/12/2023.
 //

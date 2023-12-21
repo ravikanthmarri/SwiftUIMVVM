@@ -1,6 +1,6 @@
 //
 //  ProductView.swift
-//  ProductAPISwiftUI
+//  SwiftUIMVVM
 //
 //  Created by Ravikanth on 20/12/2023.
 //
