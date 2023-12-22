@@ -15,7 +15,11 @@ struct ProductView: View {
         NavigationStack {
             VStack {
                 List(viewModel.products) { product in
-                    ProductRowView(product: product)
+                    NavigationLink {
+                        ProductDetailsView(product: product)
+                    } label: {
+                        ProductRowView(product: product)
+                    }
                 }
                 .listStyle(.plain)
             }

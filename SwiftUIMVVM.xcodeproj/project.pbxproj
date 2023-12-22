@@ -16,6 +16,8 @@
 		3DA6962D2B33B101004D8717 /* ProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA6962C2B33B100004D8717 /* ProductView.swift */; };
 		3DA6962F2B33B23E004D8717 /* ProductRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA6962E2B33B23E004D8717 /* ProductRowView.swift */; };
 		3DA696312B3458C7004D8717 /* Double+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA696302B3458C7004D8717 /* Double+Extension.swift */; };
+		3DA696332B34CDF3004D8717 /* ProductDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA696322B34CDF3004D8717 /* ProductDetailsView.swift */; };
+		3DA696352B34CE4C004D8717 /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DA696342B34CE4C004D8717 /* AsyncImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		3DA6962C2B33B100004D8717 /* ProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductView.swift; sourceTree = "<group>"; };
 		3DA6962E2B33B23E004D8717 /* ProductRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductRowView.swift; sourceTree = "<group>"; };
 		3DA696302B3458C7004D8717 /* Double+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
+		3DA696322B34CDF3004D8717 /* ProductDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailsView.swift; sourceTree = "<group>"; };
+		3DA696342B34CE4C004D8717 /* AsyncImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 				3DA6961C2B3357E3004D8717 /* Assets.xcassets */,
 				3DA6961E2B3357E3004D8717 /* Preview Content */,
 				3DA696302B3458C7004D8717 /* Double+Extension.swift */,
+				3DA696322B34CDF3004D8717 /* ProductDetailsView.swift */,
+				3DA696342B34CE4C004D8717 /* AsyncImageView.swift */,
 			);
 			path = SwiftUIMVVM;
 			sourceTree = "<group>";
@@ -157,6 +163,8 @@
 				3DA696312B3458C7004D8717 /* Double+Extension.swift in Sources */,
 				3DA696272B335850004D8717 /* APIManager.swift in Sources */,
 				3DA696292B33666A004D8717 /* Product.swift in Sources */,
+				3DA696352B34CE4C004D8717 /* AsyncImageView.swift in Sources */,
+				3DA696332B34CDF3004D8717 /* ProductDetailsView.swift in Sources */,
 				3DA696192B3357E2004D8717 /* ProductAPISwiftUIApp.swift in Sources */,
 				3DA6962B2B338223004D8717 /* ProductViewModel.swift in Sources */,
 			);
